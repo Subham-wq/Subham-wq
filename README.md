@@ -21,7 +21,7 @@
 
 - 💬 Ask me about *Java, Computer Networking, OOPs, Android, MySQL and Excel*
 
-- 📫 How to reach me *bikash@onlinedegree.iitm.ac.in*
+- 📫 How to reach me *Subhamdas19@iisertvm.ac.in*
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
