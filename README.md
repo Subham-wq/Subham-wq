@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chutiya</h1>
-<h3 align="center">A computer science enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Subham</h1>
+<h3 align="center">A computer science and Physics enthusiast </h3>
 
 
 
