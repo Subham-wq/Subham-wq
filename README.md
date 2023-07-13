@@ -13,9 +13,9 @@
 
 
 
-- 🔭 I’m currently working on *Computer Networking & Android.*
+- 🔭 I’m currently working on *Web Development & Android.*
 
-- 🌱 I’m currently learning *Ethical Hacking and Computer Networking.*
+- 🌱 I’m currently learning *Web Development and Android.*
 
 - 📝 Here goes my publications [Link](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
 
