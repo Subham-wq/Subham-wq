@@ -19,7 +19,7 @@
 
 - 📝 Here goes my publications [Link](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
 
-- 💬 Ask me about *Java, Python,Machine Learning, OOPs, Android, MySQL and Excel*
+- 💬 Ask me about *Java, Python, Machine Learning, OOPs, Android, MySQL and Excel*
 
 - 📫 How to reach me *Subhamdas19@iisertvm.ac.in*
 
@@ -33,5 +33,5 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/> </a>
 </p> 
-<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obhujerpencil&layout=compact" alt="obhujerpencil" /></p>
-<p><img align="right" alt="Streak" width="310" src="https://github-readme-streak-stats.herokuapp.com/?user=obhujerpencil&theme=default" alt="obhujerpencil" /></p>
+<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obhujerpencil&layout=compact" alt="Subham-wq" /></p>
+<p><img align="right" alt="Streak" width="310" src="https://github-readme-streak-stats.herokuapp.com/?user=obhujerpencil&theme=default" alt="Subham-wq" /></p>
