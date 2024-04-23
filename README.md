@@ -17,7 +17,6 @@
 
 - 🌱 I’m currently learning *Web Development and Android.*
 
-- 📝 Here goes my publications [Link](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
 
 - 💬 Ask me about *Java, Python, Machine Learning, OOPs, Android, MySQL and Excel*
 
