@@ -16,8 +16,9 @@
 - 🔭 I’m currently working on *Web Development & Android.*
 
 - 🌱 I’m currently learning *Web Development and Android.*
-
-
+- 
+- 📝 Here goes my publications [Link](https://www.researchgate.net/profile/Subham_Das13)
+- 
 - 💬 Ask me about *Java, Python, Machine Learning, OOPs, Android, MySQL and Excel*
 
 - 📫 How to reach me *Subhamdas19@iisertvm.ac.in*
