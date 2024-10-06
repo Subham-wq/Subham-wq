@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on *Web Development & Android.*
 
-- 🌱 I’m currently learning *Web Development and Android.*
+- 🌱 I’m currently learning *Neural Networks in depth.*
    
 - 📝 Here goes my publications [Link](https://www.researchgate.net/profile/Subham_Das13)
  
