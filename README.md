@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on *Web Development & Android.*
+- 🔭 I’m currently working on *Quantum Communication and Quantum Machine learning.*
 
 - 🌱 I’m currently learning *Neural Networks in depth.*
    
