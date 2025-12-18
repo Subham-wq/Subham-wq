@@ -21,7 +21,7 @@
  
 - 💬 Ask me about *Java, Python, Machine Learning, OOPs, Android, MySQL and Excel*
 
-- 📫 How to reach me *Subhamdas19@iisertvm.ac.in*
+- 📫 How to reach me *Subhamdas19@alumni.iisertvm.ac.in*
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
